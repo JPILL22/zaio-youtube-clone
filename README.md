@@ -1,3 +1,3 @@
 # YouTube Clone
 
-this is a youtube landing page clone
+This is a YouTube landing page clone
